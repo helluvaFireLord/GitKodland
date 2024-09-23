@@ -1,4 +1,4 @@
 # GitKodland
 ## Мои навыки:
-<img src="![image](https://github.com/user-attachments/assets/88cb40f1-dca5-48da-98db-1cdbf55646d7)"
+<img src="https://storage.tally.so/551f6f1e-00a2-4a15-9c33-b40ca5c84113/Git-Logo-2Color.png"
  width="10%">
